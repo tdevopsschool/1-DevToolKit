@@ -31,7 +31,8 @@
       - `java -jar build/libs/helloworld-gradle-0.1.0.jar` - execute jar file
 
 ## Vagrant
-1. Download and install [Vagrant](https://www.vagrantup.com/downloads) and [VirtualBox](). Tested versions bundle is Vagrant 2.0.0 and VB 5.1.36
+0. [Disable Hyper-V visrtualization](https://docs.microsoft.com/en-us/troubleshoot/windows-client/application-management/virtualization-apps-not-work-with-hyper-v)
+1. Download and install [Vagrant](https://www.vagrantup.com/downloads) and [VirtualBox](https://www.virtualbox.org/wiki/Downloads). Tested versions bundle is Vagrant 2.0.0 and VB 5.1.36
 2. `cd vagrant`
 3. Vagrant commands:
     - `vagrant up` - startup VMs
