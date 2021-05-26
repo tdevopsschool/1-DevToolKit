@@ -1,7 +1,7 @@
 apply plugin: 'java'
 
 jar {
-    baseName = 'gs-gradle'
+    baseName = 'helloworld-gradle'
     version =  '0.1.0'
     manifest {
         attributes 'Main-Class' : 'hello.HelloWorld'
