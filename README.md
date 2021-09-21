@@ -36,10 +36,11 @@
 ## Vagrant
 1. `cd vagrant`
 2. Vagrant commands:
-    - `vagrant up` - startup VMs
+    - `vagrant up` - startups VM or VMs
     - `vagrant ssh <NAME>` - ssh connection to a VM
-    - `vagrant rsync` - sync all files in vagrant dir into VM to /vagrant/ 
-    - `vagrant destroy` - stutdown and remove VMs
+    - `vagrant rsync` - syncs all files in vagrant dir into VM to /vagrant/
+    - `vagrant halt` - stops VM
+    - `vagrant destroy` - stops and removes VMs
 
 ### Vagrant tips
 - `vagrant up --provision --debug &> debug_log` - how to collect logs. [Source](https://unix.stackexchange.com/questions/244343/where-is-vagrants-log-file)
