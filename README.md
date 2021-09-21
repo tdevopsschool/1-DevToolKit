@@ -20,22 +20,23 @@
 3. `cd builders`
 4. Build Java code:
     - Ant
-      - `Ant compile` - compile classes 
-      - `Ant jar` - packing to jar
-      - `Ant run` or `java -jar build/jar/helloWorld-ant.jar` - execute jar file
-      - `Ant clean` - clean build directory
+      - `ant compile` - compile classes 
+      - `ant jar` - packing to jar
+      - `ant run` or `java -jar build/jar/helloWorld-ant.jar` - execute jar file
+      - `ant clean` - clean build directory
     - Maven
-      - `Mvn compile` - compile classes
-      - `Mvn install` - packing to jar
+      - `mvn compile` - compile classes
+      - `mvn install` - packing to jar
       - `java -jar target/helloworld-maven-0.1.0.jar` - execute jar file
     - Gradle
-      - `Gradle tasks` - list of tasks
-      - `Gradle jar` - packing to jar
+      - `gradle tasks` - list of tasks
+      - `gradle jar` - packing to jar
       - `java -jar build/libs/helloworld-gradle-0.1.0.jar` - execute jar file
 
 ## Vagrant
 1. `cd vagrant`
 2. Vagrant commands:
+    - `vagrant status` - shows status of VMs
     - `vagrant up` - startups VM or VMs
     - `vagrant ssh <NAME>` - ssh connection to a VM
     - `vagrant rsync` - syncs all files in vagrant dir into VM to /vagrant/
