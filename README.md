@@ -2,8 +2,7 @@
 ### Preparation
 1. Download and install [git-bash](https://gitforwindows.org/) **OR** configure WSL **OR** start up Linux VM **OR** use UNIX based OS **OR** use Windows CMD (but the lab workflow will be different)
 2. Download and install [Java 1.8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) or higher. If you use **git-bash** then download Java for Windows.
-3. [Disable Hyper-V virtualization](https://docs.microsoft.com/en-us/troubleshoot/windows-client/application-management/virtualization-apps-not-work-with-hyper-v) if will be necessary
-4. Download and install [Vagrant](https://www.vagrantup.com/downloads) and [VirtualBox](https://www.virtualbox.org/wiki/Downloads). Tested versions bundle is Vagrant 2.0.0 and VB 5.1.36 OR Vagrant 2.2.16 and VB 6.1.22 OR try latest
+3. Download and install [Vagrant](https://www.vagrantup.com/downloads) and [VirtualBox](https://www.virtualbox.org/wiki/Downloads). Tested versions bundle is Vagrant 2.0.0 and VB 5.1.36 OR Vagrant 2.2.16 and VB 6.1.22 OR try latest. Vagrant [mirror] (https://www.filecroco.com/download-vagrant/download/)
 
 ## Build tools
 > If you use git-bash add JAVA_HOME variable with paths to your java instalation folder, like `C:\Program Files\Java\jdk1.8.0_301`. [How to](https://windowsloop.com/add-environment-variable-in-windows-10/)
