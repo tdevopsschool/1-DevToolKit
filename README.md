@@ -20,7 +20,7 @@ curl -s "https://get.sdkman.io" | bash
 source "/home/vagrant/.sdkman/bin/sdkman-init.sh"
 sdk install gradle
 ```
-12. You are done. Perfect! You may use the VM for all father home works and practices. 
+12. You are done. Perfect! You may use the VM for all futher home works and practices. 
 
 ### Vagrant usage
 Vagrant commands:
