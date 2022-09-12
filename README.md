@@ -6,7 +6,7 @@
 
 ## Homework 2
 *[#homework]() [#devtoolkit2]()*
-1. Build and run [backend](https://github.com/tdevopsschool/dev-school-app) and [frontend](https://github.com/tdevopsschool/dev-school-front-app) application locally. Don't forget to create new DB instance and configure it in backend application (see backend [README](https://github.com/tdevopsschool/dev-school-app#readme))
+1. Build and run [backend and frontend](https://github.com/tdevopsschool/course-project) application locally. Don't forget to create new DB instance and configure it in backend application (see backend [README](https://github.com/tdevopsschool/dev-school-app#readme))
 2. Create a new course and a school with random name on http://localhost:8081/dev-ops-school/index.html/ 
 3. Create new user with your name
 3. Send screenshots with new student in the chat with homework's hashtags
