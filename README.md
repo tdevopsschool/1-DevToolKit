@@ -23,3 +23,6 @@
 - [How to migrate from Maven to Gradle](https://docs.gradle.org/current/userguide/migrating_from_maven.html)
 - [Custom gradle plugins](https://docs.gradle.org/current/userguide/custom_plugins.html)
 - [Jib plugin](https://github.com/GoogleContainerTools/jib/tree/master/jib-gradle-plugin)
+
+## Additional links 
+- [Semantic-release tools](https://github.com/semantic-release)
