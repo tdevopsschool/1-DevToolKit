@@ -1,3 +1,5 @@
+moved to https://gitlab.com/t-systems-devops-school/1-DevToolKit
+
 ## Homework 1
 *[#homework]() [#devtoolkit1]()*
 1. To do all tasks from https://learngitbranching.js.org/
